@@ -104,15 +104,14 @@ loop = 0
 user = []
 
 # Color codes for terminal output
-R  = '\x1b[38;5;196m'   # Red
-C  = '\x1b[38;5;51m'    # Cyan
-WP = '\x1b[1;97m'       # White bright
-B  = '\x1b[38;5;45m'    # Blue
-G  = '\x1b[38;5;82m'    # Green
-Y  = '\x1b[38;5;226m'   # Yellow
-P  = '\x1b[38;5;213m'   # Pink
-O  = '\x1b[38;5;208m'   # Orange
-PU = '\x1b[38;5;129m'   # Purple
+R     = '\x1b[38;5;196m'   # Red
+C     = '\x1b[38;5;51m'    # Cyan
+W     = '\x1b[1;97m'       # White
+B     = '\x1b[38;5;45m'    # Blue
+G     = '\x1b[38;5;82m'    # Green
+Y     = '\x1b[38;5;226m'   # Yellow
+P     = '\x1b[38;5;213m'   # Pink
+O     = '\x1b[38;5;208m'   # Orange
 RESET = '\x1b[0m'
 
 
