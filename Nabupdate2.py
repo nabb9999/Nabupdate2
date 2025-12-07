@@ -112,8 +112,7 @@ G     = '\x1b[38;5;82m'    # Green
 Y     = '\x1b[38;5;226m'   # Yellow
 P     = '\x1b[38;5;213m'   # Pink
 O     = '\x1b[38;5;208m'   # Orange
-RESET = '\x1b[0m'
-
+N = '\x1b[0m'   # Normal / Reset
 
 def windows():
     """
