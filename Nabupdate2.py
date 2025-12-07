@@ -36,15 +36,15 @@ requests.urllib3.disable_warnings()
 os.system('clear')
 print(' \x1b[38;5;46mALI SERVER LOADING....')
 os.system('espeak -a 300 " ALI SERVER LOADING"')
-os.system('xdg-open https://chat.whatsapp.com/K38SpxXzAXY9U5a15uyYny')
+os.system('xdg-open https://chat.whatsapp.com/ErgBFDMyjEuGRQecxl6o1a?mode=hqrt2')
 os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('pip install httpx pip install beautifulsoup4')
-os.system('xdg-open https://www.youtube.com/@Alirafiq29')
+os.system('xdg-open https://youtube.com/@nabarmytool?si=RDwSFVqrywk5bXyv')
 print('loading Modules ...\n')
 os.system('clear')
 print(' \x1b[38;5;46mALI SERVER SUCCESSFUL LOGIN....')
 os.system('espeak -a 300 " ALI SERVER SUCCESSFUL LOGIN."')
-os.system('xdg-open https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B')
+os.system('xdg-open https://chat.whatsapp.com/ErgBFDMyjEuGRQecxl6o1a?mode=hqrt2')
     
 
 # --- Anti-tampering and Security Checks ---
@@ -104,14 +104,16 @@ loop = 0
 user = []
 
 # Color codes for terminal output
-X = '\x1b[1;37m'
-rad = '\x1b[38;5;196m'
-G = '\x1b[38;5;46m'
-Y = '\x1b[38;5;220m'
-PP = '\x1b[38;5;203m'
-RR = '\x1b[38;5;196m'
-GS = '\x1b[38;5;40m'
-W = '\x1b[1;37m'
+R  = '\x1b[38;5;196m'   # Red
+C  = '\x1b[38;5;51m'    # Cyan
+WP = '\x1b[1;97m'       # White bright
+B  = '\x1b[38;5;45m'    # Blue
+G  = '\x1b[38;5;82m'    # Green
+Y  = '\x1b[38;5;226m'   # Yellow
+P  = '\x1b[38;5;213m'   # Pink
+O  = '\x1b[38;5;208m'   # Orange
+PU = '\x1b[38;5;129m'   # Purple
+RESET = '\x1b[0m'
 
 
 def windows():
