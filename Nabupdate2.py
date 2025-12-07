@@ -178,10 +178,10 @@ logo = f"""
 {G}██║░╚███║██║░░██║██████╦╝
 {G}╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝░
 {W}───────────────────────────────────
-{C}| {G}OWNER   {W}: NAB-ARMY🥷
-{C}| {G}STATUS  {R}: PAID
-{C}| {G}VERSION {W}: V11
-{C}| {G}TOOLS   {W}: FACEBOOK OLD CLONING
+{G}OWNER   {W}: NAB-ARMY🥷
+{G}STATUS  {R}: PAID
+{G}VERSION {W}: V11
+{G}TOOLS   {W}: FACEBOOK OLD CLONING
 {C}─────────────────────────────────────────────
 {N}"""
 def creationyear(uid):
